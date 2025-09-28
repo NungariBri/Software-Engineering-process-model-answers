@@ -9,3 +9,7 @@ GROUP MEMBERS:
 -
 -
 -
+How to contribute:
+-You can clone the repo or edit directly 
+-Inside the 'answers' folder, create your file), add your answers inside your file
+-Once everyone is done, we will merge the best responses into the 'final_answers' file
