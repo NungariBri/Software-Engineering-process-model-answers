@@ -14,6 +14,9 @@
 ### 4.2 Provide three examples of software projects that would be amenable to the prototyping model. Be specific.
 
 **Answer:**
+*Mobile gaming app:Since gaming is such a user-centric area,hrough prototyping,user feedback can be used to refine controls and design of the gaming experience.
+*Customer Service Chatbot:It is hard to predict how users will phrase their questions in this scenario thus prototyping allows testing of converstaional flows and logic
+*Online learning platform :When the stakeholders are unsure of the features of their platform ,the SE can create a prototype with quick mockups testing course layout and navigation
 
 ---
 
@@ -33,7 +36,8 @@
 **Answer:**
 
 * Social Media App: first increment allows users to create profiles and post. Later increments add messaging, video calls, and group features.
-
+* ERP System for a University: An ERP has so many modules(finance,staff,student portal etc), it makes sense to deliver it in increments.
+* E-Commerce Website: Here a first increment can cover product browisng and checkouts then later increments add features like reviews,loyalty points and seller dashboards.
 ---
 
 ### 4.5 As you move outward along the spiral process flow, what can you say about the software that is being developed or maintained?
@@ -86,6 +90,9 @@
 ---
 
 ### 4.9 Provide three examples of software projects that would be amenable to the component-based model. Be specific.
+*ERP Systems- These are built from distinct modules like HR, payroll, inventory etc
+*Smart Home Applications- Rather than building form scratch ,prebuilt device control components are used for heating,lighting and security
+*Banking Applications- Incorporates components for authentication such as biometrics and OTP
 
 **Answer:**
 
