@@ -26,13 +26,9 @@ This repository contains our group’s answers for **Chapter 4 – Process Model
 
 ---
 
-## Goal of the Repository
 
-* Ensure collaboration across all group members.
-* Allow everyone to contribute their perspectives and understanding.
-* Produce a single, refined set of answers for submission.
 
----
+
 
 ## Workflow Overview
 
