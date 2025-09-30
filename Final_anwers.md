@@ -90,11 +90,12 @@
 ---
 
 ### 4.9 Provide three examples of software projects that would be amenable to the component-based model. Be specific.
+
+**Answer:**
 *ERP Systems- These are built from distinct modules like HR, payroll, inventory etc
 *Smart Home Applications- Rather than building form scratch ,prebuilt device control components are used for heating,lighting and security
 *Banking Applications- Incorporates components for authentication such as biometrics and OTP
 
-**Answer:**
 
 ---
 
